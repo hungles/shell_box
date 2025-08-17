@@ -18,3 +18,6 @@ Example usage:
 ```bash
 # Create a backup of /home/user/docs and store it in /backups
 ./auto_backup.sh /home/user/docs /backups
+```
+
+will continue
